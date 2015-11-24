@@ -1,0 +1,18 @@
+[core]
+	excludesfile = /Users/jackc/.gitignore
+[user]
+	name = Jack Cox
+	email = jackc@spotify.com
+[alias]
+	co = checkout
+	br = branch
+	st = status
+[color]
+	branch = auto
+	diff = auto
+	status = auto
+	ui = auto
+[push]
+	default = current
+[merge]
+	tool = opendiff
