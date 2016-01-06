@@ -2,7 +2,7 @@
 	excludesfile = /Users/jackc/.gitignore
 [user]
 	name = Jack Cox
-	email = jackc@spotify.com
+	email = <your email>
 [alias]
 	co = checkout
 	br = branch
