@@ -82,3 +82,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias s="cd ~/src/website"
+alias sync="~/./sync.sh"
+alias syncwebcore='sudo rsync -aP /home/jackc/src/web-core/lib/ /var/lib/spotify-web/web-core/lib/'

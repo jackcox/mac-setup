@@ -537,9 +537,9 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>718 241 512 294 0 0 1440 877 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>204 360 924 485 0 0 1440 877 </string>
+	<string>647 856 924 485 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>94 400 1090 446 0 0 1440 877 </string>
+	<string>-1394 -133 1099 825 -1440 -185 1440 877 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1108,7 +1108,7 @@
 			<key>Right Option Key Sends</key>
 			<integer>0</integer>
 			<key>Rows</key>
-			<integer>20</integer>
+			<integer>50</integer>
 			<key>Screen</key>
 			<integer>-1</integer>
 			<key>Scrollback Lines</key>
@@ -1275,12 +1275,14 @@
 			<string>/Users/jackc</string>
 		</dict>
 	</array>
+	<key>NoSyncHaveShownPromoWithId_4</key>
+	<true/>
 	<key>NoSyncNeverRemindPrefsChangesCopy</key>
 	<true/>
 	<key>NoSyncTimeOfLastPromo</key>
-	<real>470033520.86194497</real>
+	<real>477952769.92643899</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
-	<real>470033520.86231798</real>
+	<real>478459644.11930102</real>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -1345,7 +1347,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-11-24T04:42:38Z</date>
+	<date>2016-02-29T17:18:18Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
